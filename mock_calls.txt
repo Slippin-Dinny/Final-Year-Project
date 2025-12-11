@@ -1,0 +1,21 @@
+"Likely_scam" call: 
+
+"Hello, this is Officer Chad Thunderstone from the International Cyber Security Task Force. We have detected *serious criminal activity* coming from your internet account.
+To avoid immediate suspension of your home Wi-Fi and possible arrest, you must verify your identity right now. Please provide your full name, date of birth, yourbank card number, and the three magic numbers on the back of the card.
+Do not hang up — this is extremely urgent. If you fail to comply, your house maylose internet access within the next 15 minutes, and a fine of €9,700 will beissued. 
+Again, this is Officer chad Thunderstone. I am here to help you, but only if you cooperate immediately."
+
+
+
+"Suspicious" call:
+
+"Hey Mike, this is your nephew Pete, your sister broke her arm skateboarding earlier.
+Can you call me back as soon as you can?"
+
+
+
+"safe" call:
+
+"Hi grandpa, its Emily your grand-daughter, mom told me to tell you that she scheduled you a doctor's appointment on tuesday the 16th.
+She said it's ok if you cant make it but you should call her back so she can re-arrange.
+Anyway I have to go, i'll see you after school on friday, bye grandpa!"
